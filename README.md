@@ -39,5 +39,5 @@ The ultimate goal of this exercise is to implement a part of a smart home (smart
 # IoT assignment #5 (design by M.hossin Badiee)
 The purpose of this exercise is to get acquainted with the operation of the IoT platform. In previous exercises, we were introduced to the basic concepts of the Internet, and we know that, in simple terms, the Internet of Things is the connection of sensors and devices to a network through which they can interact with each other and with their users. Allows the user to remotely control these objects across the network infrastructure. The IoT platform is a multi-layered technology that enables the management and automation of connected devices in the IoT world. In simpler terms, the purpose of any IoT device is to connect to other devices and applications through IoT protocols, and therefore IoT platforms are used to bridge the gap between sensors and IoT devices. These platforms connect the sensors to the network and then use the information collected by the sensors using applications and send the necessary commands to the operators by the collected information.
 
-![Repo_List](https://github.com/JaberBabaki/Introduction-to-IoT-Spring-2020/blob/master/Assignment-05/2021-03-02_121945.jpg)
+![Repo_List](https://github.com/JaberBabaki/Introduction-to-IoT-Spring-2021/blob/main/assignment-05/4-1.png)
 
