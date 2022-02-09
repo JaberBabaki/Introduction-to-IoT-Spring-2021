@@ -2,4 +2,5 @@
 *.docx
 *.pptx
 *.xlsx
-*.bfg.jar
+bfg.jar
+.git.bfg-report
